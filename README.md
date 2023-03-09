@@ -2,11 +2,11 @@
 
 ## Flipkart website Web Scrapping
 
-Have web scrapped flipkart website and extracted data containing:/
-product name
-brand
-price
-description
-star rating
-no. of reviews
-no. of rating
+Have web scrapped flipkart website and extracted data containing:<br />
+product name<br />
+brand<br />
+price<br />
+description<br />
+star rating<br />
+no. of reviews<br />
+no. of rating<br />
