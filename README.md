@@ -1,12 +1,12 @@
-# Web-Scrapping\n
+# Web-Scrapping/
 
-## Flipkart website Web Scrapping\n
+## Flipkart website Web Scrapping
 
-Have web scrapped flipkart website and extracted data containing:\n
-product name\n
-brand\n
-price\n
-description\n
-star rating\n
-no. of reviews\n
-no. of rating\n
+Have web scrapped flipkart website and extracted data containing:
+product name
+brand
+price
+description
+star rating
+no. of reviews
+no. of rating
