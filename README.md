@@ -1,8 +1,8 @@
-# Web-Scrapping/
+# Web-Scrapping
 
 ## Flipkart website Web Scrapping
 
-Have web scrapped flipkart website and extracted data containing:
+Have web scrapped flipkart website and extracted data containing:/
 product name
 brand
 price
